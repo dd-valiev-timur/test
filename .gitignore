@@ -1,0 +1,16 @@
+# Build files
+**/build
+
+# Local configuration file
+local.properties
+
+# Gradle files
+.gradle
+
+# Project files
+*.iml
+.idea
+captures
+
+# OS files
+.DS_Store
